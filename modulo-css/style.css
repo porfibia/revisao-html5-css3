@@ -1,0 +1,101 @@
+h2{
+	background-color: #fff9c4;
+	font-family: courier new;
+	text-align: center;
+}
+.conteudo{
+	padding: 10px;
+	margin:10px;
+	background-color: #ef9a9a;
+	width: 350px;
+}
+.conteudo2{
+	padding: 15px;
+	margin:20px;
+	background-color: #ffcdd2;
+	width: 700px;
+}
+
+#note{
+	font-family: courier new;
+	padding: 10px;
+}
+
+.caixinha{
+	width: 400px;
+	padding: 15px;
+	margin: 10px;
+	float: right;
+	background-color: #b9f6ca;
+}
+.clear{
+	clear: both;
+}
+
+p span{
+	background-color: #a7ffeb;
+	padding: 0px;
+}
+
+
+.exemplo{
+	background-color: #fce4ec;
+}
+
+span{
+	background-color: #f48fb1;
+}
+
+#divspan{
+	background-color: #f8bbd0 ;
+}
+#bordas{
+	background-coloar: #e1bee7 ;
+}
+
+#conteudo{
+	border: 2px solid;
+	border-color: #ce93d8 #7e57c2 #64b5f6 #1de9b6;
+	text-align: center;
+	padding: 15px;
+	margin: 15px;
+}
+
+#fontescores{
+	background-color: #c8e6c9;
+}
+
+.formatacao{
+	color: #81c784;
+	font-size: 25px;
+	font-family: "courier new", Times;
+	background: #e8f5e9;
+}
+.paragrafo{
+	font-size: 16px;
+	font-family: "courier new", Times;
+	background: #e8f5e9;
+}
+
+#tamanho{
+	background-color: #ffe0b2;
+}
+
+#bg{
+	background-color: #9fa8da;
+}
+
+.fundor{
+	background-image: url('img/a.jpg');
+	background-attachment: fixed;
+	background-repeat: repeat-x;
+	background-position: center;
+	padding: 4%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.a{
+	background-color: #d1c4e9;
+}
+
